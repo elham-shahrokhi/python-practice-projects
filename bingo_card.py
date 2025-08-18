@@ -1,3 +1,4 @@
+# This script generates a 3x3 Bingo card with a 'BINGO' center cell
 import random
 
 bingo = []  # List to store the bingo card
